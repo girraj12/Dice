@@ -1,0 +1,21 @@
+  .dice{
+    display: inline-block;
+    text-align: center;
+    margin-left: 150px;
+  }
+  h1:hover{
+    color: aqua;
+    text-align: center;
+  }
+  .img1{
+    
+   text-align: center;
+   justify-content: center;
+}
+  .container{
+    border-style: dashed;
+    border-radius: 20px;
+    border-color: brown;
+    background-color: rgba(0, 0, 255, 0.505);
+  }
+
